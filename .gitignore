@@ -1,0 +1,8 @@
+build/
+.venv/
+tests/tmp/
+tests/__pycache__/
+tests/.pytest_cache/
+*.o
+*.pyc
+.DS_Store
